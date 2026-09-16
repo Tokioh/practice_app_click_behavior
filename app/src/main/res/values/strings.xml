@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">app_click_behavior</string>
+    <string name="app_name">Limonada</string>
+
+    <!-- Textos de instrucciones para cada paso -->
+    <string name="lemon_select">Presiona el arbol para seleccionar un limón</string>
+    <string name="lemon_squeeze">Presiona el limón para exprimirlo</string>
+    <string name="lemon_drink">Presiona la limonada para beberla</string>
+    <string name="lemon_empty_glass">Presiona el vaso vacío para volver a empezar</string>
+
+    <!-- Descripciones de contenido para accesibilidad (TalkBack) -->
+    <string name="lemon_tree_content_description">Limonero</string>
+    <string name="lemon_content_description">Limón</string>
+    <string name="lemonade_content_description">Vaso de limonada</string>
+    <string name="empty_glass_content_description">Vaso vacío</string>
+
 </resources>
